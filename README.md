@@ -2,6 +2,7 @@
 
 ## Under writing ...
 
+Twitter: [@kent7k](https://twitter.com/kent_0n)
 <!--
 **kent7k/kent7k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
