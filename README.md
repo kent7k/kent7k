@@ -19,3 +19,12 @@ Here are some ideas to get you started:
 -->
 
 ![image](https://user-images.githubusercontent.com/46371150/202831083-47cfb248-15f5-4ff5-82b5-1b96a36a1357.png)
+
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kent7k&show_icons=true&include_all_commits=true&count_private=true&include_orgs=true&locale=en" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kent7k&show_icons=true&include_all_commits=true&count_private=true&include_orgs=true&locale=en" />
+</a>
