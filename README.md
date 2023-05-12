@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-## Under writing ...
-
 Twitter: [@kent7k](https://twitter.com/kent_0n)
 <!--
 **kent7k/kent7k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,9 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![image](https://user-images.githubusercontent.com/46371150/202831083-47cfb248-15f5-4ff5-82b5-1b96a36a1357.png)
-
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
