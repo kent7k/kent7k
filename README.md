@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there 👋
 
 <!--
 Twitter: [@kent7k](https://twitter.com/kent_0n)
@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kent7k&show_icons=true&include_all_commits=true&count_private=true&include_orgs=true&locale=en" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kent7k&show_icons=true&include_all_commits=true&count_private=true&include_orgs=true&locale=en" />
 </a>
+-->
